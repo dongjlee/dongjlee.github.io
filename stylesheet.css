@@ -25,3 +25,8 @@ p {
   font-size: 18px;
   margin-top: 25px;
 }
+
+#card {
+  text-align: center;
+  font-size: 70px;
+}
